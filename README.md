@@ -108,10 +108,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theniyazkhan&show_icons=true&theme=tokyonight&hide_border=false" alt="Niyaz's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theniyazkhan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="49%" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=theniyazkhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="98%" />
 </p>
 
