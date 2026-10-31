@@ -90,10 +90,10 @@
   An original programming language featuring Sylheti-dialect keywords, a lexer & parser built using Flex and Bison, and an AST-based interpreter.  
   👉 *Live Playground:* [theniyazkhan.bond/Sylheti-Compiler/](https://theniyazkhan.bond/Sylheti-Compiler/)
 
-- 🍕 **CampusBite**  
+- 🍕 **[CampusBite](https://github.com/theniyazkhan/CampusBite)**
   Real-time canteen pre-order platform built with Vue.js, Node.js, and MySQL. Deployed on Vercel with UptimeRobot monitoring.
 
-- 🏥 **HealthBridge**  
+- 🏥 **[HealthBridge](https://github.com/theniyazkhan/HealthBridge)**  
   Healthcare management web app constructed with HTML, CSS, PHP, and MySQL covering appointments, donor management, and pharmacy inventory.
 
 ---
@@ -101,7 +101,7 @@
 ### 📄 Published Research
 
 - 📚 **"Can Synthetic Data Replace Real Data? Evaluating the Efficacy, Limits, and Label Trustworthiness of Generative Data in Supervised Learning"**  
-  Published in **EFAST 2026, AJSE** (Scopus-indexed).[AJSE](https://doi.org/10.53799/sa1d7q88)
+  Published in **EFAST 2026, AJSE** (Scopus-indexed). [DOI: 10.53799/sa1d7q88](https://doi.org/10.53799/sa1d7q88)
 
 ---
 
@@ -119,5 +119,5 @@
 ---
 
 <p align="center">
-  <i>Designed with ❤️ by Niyaz Khan</i>
+  <i>Designed by Niyaz</i>
 </p>
