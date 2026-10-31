@@ -88,7 +88,7 @@
 
 - 🔤 **[Sylheti Programming Language & Compiler](https://github.com/theniyazkhan/syleti_lang)**  
   An original programming language featuring Sylheti-dialect keywords, a lexer & parser built using Flex and Bison, and an AST-based interpreter.  
-  👉 *Live Playground:* [theniyazkhan.bond/Sylheti-Compiler/](https://theniyazkhan.bond/Sylheti-Compiler/)
+  👉 *Live Playground:* [/Sylheti-Compiler](https://theniyazkhan.bond/Sylheti-Compiler/)
 
 - 🍕 **[CampusBite](https://github.com/theniyazkhan/CampusBite)**  
   Real-time canteen pre-order platform built with Vue.js, Node.js, and MySQL. Deployed on Vercel with UptimeRobot monitoring.
