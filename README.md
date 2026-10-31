@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theniyazkhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=theniyazkhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
