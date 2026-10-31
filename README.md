@@ -19,7 +19,7 @@
 - 🎓 **Final-year B.Sc. CSE Student** at Metropolitan University, Sylhet (2023–2026).
 - 🚀 **Full-Stack Engineer**: Built and deployed apps end-to-end (CampusBite, HealthBridge), from schema design to production monitoring.
 - ⚙️ **Compiler & Language Creator**: Designed an original programming language (**"Sylheti"**) featuring a hand-built Flex lexer, Bison parser, and AST interpreter.
-- 🔬 **ML Researcher**: Published research titled *"Can Synthetic Data Replace Real Data? Evaluating the Efficacy, Limits, and Label Trustworthiness of Generative Data in Supervised Learning"* — [**EFAST 2026 | AJSE**](https://doi.org/10.53799/sa1d7q88)(Scopus-indexed).
+- 🔬 **ML Researcher**: Published research titled *"Can Synthetic Data Replace Real Data? Evaluating the Efficacy, Limits, and Label Trustworthiness of Generative Data in Supervised Learning"* — [**EFAST 2026 | AJSE**](https://doi.org/10.53799/sa1d7q88) (Scopus-indexed).
 - 🤖 **AI Enthusiast**: Currently building applied LLM, RAG, and agentic-AI systems.
 - 🎨 **Visual Designer**: Strong foundation in UI/UX and graphic design (Figma, Adobe Photoshop, Illustrator).
 
